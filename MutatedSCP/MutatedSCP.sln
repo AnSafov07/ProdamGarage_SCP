@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutatedSCP", "MutatedSCP\MutatedSCP.csproj", "{B3C733DA-0CB6-4F96-9119-6B166D16AE33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3C733DA-0CB6-4F96-9119-6B166D16AE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C733DA-0CB6-4F96-9119-6B166D16AE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C733DA-0CB6-4F96-9119-6B166D16AE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C733DA-0CB6-4F96-9119-6B166D16AE33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0F5F888-7C2F-4BC0-9B5F-7DC5FA05F3BC}
+	EndGlobalSection
+EndGlobal
